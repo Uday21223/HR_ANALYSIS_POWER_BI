@@ -2,7 +2,7 @@
 
 
 <div style="text-align: center;">
-    <img src="https://media.licdn.com/dms/image/v2/D4D12AQGEnlIrHJ5tcQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1678991776805?e=1735776000&v=beta&t=GRxOX0YQ589DurUM6jj_91R0JGO_MafZ0AI20np8p3w" alt="HR GIF" style="height: 450px;" text-align="center">
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQGEnlIrHJ5tcQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1678991776805?e=1735776000&v=beta&t=GRxOX0YQ589DurUM6jj_91R0JGO_MafZ0AI20np8p3w" alt="HR GIF" style="height: 450px;"
 </div>
 
 
