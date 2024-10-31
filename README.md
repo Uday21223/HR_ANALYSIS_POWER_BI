@@ -5,13 +5,6 @@
     <img src="https://media.licdn.com/dms/image/v2/D4D12AQGEnlIrHJ5tcQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1678991776805?e=1735776000&v=beta&t=GRxOX0YQ589DurUM6jj_91R0JGO_MafZ0AI20np8p3w" alt="HR GIF" style="height:500px;"
 </div>
 
-<div style="width: 100%; text-align: center;">
-    <img src="https://media.licdn.com/dms/image/v2/D4D12AQGEnlIrHJ5tcQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1678991776805?e=1735776000&v=beta&t=GRxOX0YQ589DurUM6jj_91R0JGO_MafZ0AI20np8p3w" alt="HR GIF" style="width: 500px; height: 450px;">
-</div>
-
-
-
-
 
 This Power BI project aims to analyze various aspects of Human Resources (HR) data, with a primary focus on understanding and mitigating employee attrition. By leveraging visualizations and data analytics, this analysis provides insights to HR professionals and decision-makers to better understand the factors contributing to attrition and develop strategies for retention.
 
