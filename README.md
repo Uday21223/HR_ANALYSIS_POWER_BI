@@ -7,6 +7,8 @@
 </div>
 
 
+
+
 This Power BI project aims to analyze various aspects of Human Resources (HR) data, with a primary focus on understanding and mitigating employee attrition. By leveraging visualizations and data analytics, this analysis provides insights to HR professionals and decision-makers to better understand the factors contributing to attrition and develop strategies for retention.
 
 
